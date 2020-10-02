@@ -1,0 +1,62 @@
+//hospital 
+{
+        "_id" : ObjectId("5f77ab56eb47191c47e47e0b"),
+        "hId" : "H1",
+        "name" : "Apollo Hospital",
+        "location" : "17.398644, 78.484334",
+        "address" : "Plot No.3-5-874/1 Near,Old MLA QuartersRd, Hyderguda,Hyderabad,Telangana 500029",
+        "contactNo." : "040-23231380"
+}
+{
+        "_id" : ObjectId("5f77ab62eb47191c47e47e0c"),
+        "hId" : "H2",
+        "name" : "Kims",
+        "location" : "16.398644, 78.484334",
+        "address" : "Plot No.3-4-874/1 Near Secunderabad,Hyderabad,Telangana 500029",
+        "contactNo." : "040-22431380"
+}
+{
+        "_id" : ObjectId("5f77ab6eeb47191c47e47e0d"),
+        "hId" : "H3",
+        "name" : "Yashoda",
+        "location" : "16.1144, 78.40034",
+        "address" : "Plot No.3-3-854/1 Near Malakpet,Hyderabad,Telangana 500029",
+        "contactNo." : "040-44431380"
+}
+{
+        "_id" : ObjectId("5f77ab79eb47191c47e47e0e"),
+        "hId" : "H4",
+        "name" : "Prathima",
+        "location" : "16.22454, 78.22434",
+        "address" : "Plot No.3-3-884/1 Near Kachiguda,Hyderabad,Telangana 500029",
+        "contactNo." : "040-77891380"
+}
+//ventilator
+{
+        "_id" : ObjectId("5f77ac94eb47191c47e47e13"),
+        "hId" : "H1",
+        "ventilatorId" : "H1V5",
+        "status" : "occupied",
+        "name" : "Apollo hospital"
+}
+{
+        "_id" : ObjectId("5f77ac99eb47191c47e47e14"),
+        "hId" : "H2",
+        "ventilatorId" : "H2V5",
+        "status" : "un-occupied",
+        "name" : "Kims"
+}
+{
+        "_id" : ObjectId("5f77aca5eb47191c47e47e15"),
+        "hId" : "H3",
+        "ventilatorId" : "H3V5",
+        "status" : "in-maintainence",
+        "name" : "Yashoda"
+}
+{
+        "_id" : ObjectId("5f77acb6eb47191c47e47e16"),
+        "hId" : "H4",
+        "ventilatorId" : "H4V5",
+        "status" : "available",
+        "name" : "Prathima"
+}
